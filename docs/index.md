@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Welcome to MkDocs
+# Welcome to Nicole's Lab!
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
