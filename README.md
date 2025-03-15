@@ -1,1 +1,1 @@
-This is a log for Nicole‘s lab.
+This is a log for Nicole's lab.
